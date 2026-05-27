@@ -1,0 +1,64 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.class
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+
+# IDE / Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Build / distribution
+build/
+dist/
+pip-wheel-metadata/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.swp
+*.swp.*
+*.bak
+*.orig
+*~
+
+# Dependency and environment artifacts
+.python-version
+
+# Project temp folders
+temp/
+
+# Streamlit cache
+.streamlit/
+
+# Python testing cache
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Cache folders (your project)
+ycache__/

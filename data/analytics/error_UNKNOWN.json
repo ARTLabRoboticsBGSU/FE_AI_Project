@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2026-04-09T22:29:06.260781+00:00",
+    "session_id": "0925eb4a-6731-41a4-bfa6-1ab9e5aeff35",
+    "course": "UNKNOWN",
+    "topic": "Other",
+    "prompt": "Here are recent interactions:\n\n1) Q: what is ECE ?\nA: Hello there! I'm your ChatISA Assistant, and I'm super excited to help you understand concepts in business analytics!\n\nRegarding your question, EC",
+    "response": "{\"Remember\": 0, \"Understand\": 0, \"Apply\": 0, \"Analyze\": 0, \"Evaluate\": 0, \"Create\": 0}",
+    "subtopic": null,
+    "misconception": false
+  }
+]

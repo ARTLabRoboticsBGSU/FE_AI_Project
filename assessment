@@ -1,0 +1,182 @@
+Education
+
+How did you rank in your high school, in your final year in maths and hard sciences? Which was your strongest? 
+
+In my final year of high school, I maintained the cumulative GPA of 3.59 / 4.0 across all the subjects. My strongest part in Science in high school was Chemistry where I scored A+. In my country, Mathematics taken either in 11th grade or 12th grade (final year of high school) and I took it in 11th grade and secured A+ in Mathematics as well. I have strong marks in practical of all hard science (Physics, Chemistry and Biology) where I secured A+ in practical science. 
+
+
+How did you rank in your high school, in your final year in languages and the arts? Which was your strongest? 
+
+In my final year in high school, I had the course called Compulsory English and Compulsory Nepali, where I secured "A" in both of them. 
+
+Please state your high school graduation results or university entrance results, along with the system used, and how to understand those. For example, in the US, you might give your SAT or ACT scores. In Germany, you might give your scores 1-5. 
+
+Subject       Grade
+
+Physics       A (3.6/4.0)
+Chemistry     A+ (4.0/4.0)
+Biology       B+ (3.2/4.0)
+Mathematics   A+ (4.0/4.0)
+Compulsory English A(3.6 /4.0)
+Compulsory Nepali  A (3.6/4.0)
+
+Total:   A(3.53/4.0)
+
+
+What sort of high school student were you? Outside of class, what were your interests and hobbies? What would your high school peers remember you for, if we asked them? 
+
+Outside of the class, I was one of the proactive student who used to love to hangout with friends, plan for the volunteering work in school, taking part in the competition like speech competition, debate competition, help other student in the case of trouble. 
+My friends remember me as a enthusiatic girl who would passionately work on any activities that I took part into.
+
+
+Which university and degree did you choose? What other universities did you consider, and why did you select that one? 
+
+Talking about my masters, I chosed Bowling Green State Univerity (BGSU) and majored in Masters' in Science in Computer Science. 
+The other university that I considered were: The University of Southern Mississippi, Charleston SOuthern University, University of Bridgeport.
+The reason I selected the university that I actually pursed masters is the options of availability of course. I found out the wide options of course module which I can chose according to my interest and I found the research of one of the professors very interesting and luckily I got selected by that professor to do Final Year Project whith him.
+
+
+At university, did you do particularly well at any area of your degree? 
+
+As I got chance to chose the modules that I am really interested in this university, I performed well in all the courses, I pursued scoring cumulative GPA of 4.0/4.0
+
+
+Overall, what was your degree result and how did that reflect on your ability? In high school and university, what did you achieve that was exceptional? 
+
+Degree Result in university:
+Research Methods in Computer Science (5050) : A (4.0/4.0)
+Design and Analysis of Algorith (5120) : A(4.0/4.0)
+Data Science Porgramming (6010): A(4.0/4.0)
+Database Management Systems (5620): A(4.0/4.0)
+Big Data Analytics (6500): A(4.0/4.0)
+Seminar in Computer Science AI for Software Engineering (6800): A(4.0/4.0)
+INtroduction to Parallel Computing (5170): A(4.0/4.0)
+Visualization (6260): A (4.0/4.0)
+Readings in Computer Science (6850): A(4.0/4.0)
+
+As an international student, balancing both part-time work and the studies, I feel like I did exceptionally well in time management, proper planning of proritization of work which help me maintain the good GPA throughout my degree.
+
+
+What leadership roles did you take on during your education?
+
+I have worked with multiple group projects while working as a part of course assessment. During that time, I took the leadership role to take initiative in planning, sceduling call, booking conferenece room for meeting. I also worked on diving the task and gave ideas and suggestions to my friends whenever they felt stuck. At the end of the project, while whole team should give presentation, I motivated my team member to practice well and our team was able to perform best in the whole class. 
+
+
+Career development
+
+How would you describe your level of experience as a professional software engineer?
+
+I have working experience in Python, SQL for more than 4 years and I have cloud experience of more than 3 years. I am confident in writing production-quality Python code while maintaining clean code concept and at same time make sure code does not have any security vulnerabilities by writing unit test cases. As working in Data Engineering field where I had to deal with multiple variety of data (valid, invalid, structured, semi-structured), I got the habit of debugging the software easily and identify the underlying issue on time. I have good experience of development software using Agile development lifecycle. 
+
+
+What are your strengths as a software engineer?
+
+My main strength as a software engineer is not only being able to write a code, instead I am capable of writing the optimized code that generates the effective output. I am a planner so before developing any software, I have the habit of generating the system architecture diagram first, which gives the clear concept of what we are doing to achieve the requirements so that I have every details of the requirements I need in future so that I dont have any blockers in the work. I possess the good communciation and collaborations skills among the cross-functional team which helps me work effectively acorss the different teams as well. 
+
+
+What is your proudest success as a software engineer?
+
+While working in my previous role, I identified the existing loop hole (buggy logic) which was costing the money. Actually, for all the files invoked by the batch job, it stores the data in the Aurora Database but while working in one of the project, I identified that the table has the millions of the rows and was not used by any other applications. So, I proposed to my tech lead that, we need data in that table to exist for only 7 days and after that we can delete the data, which will save us from the storage and query runtime cost. So, we implemented Time To Live (TTL) in that table and saved our teams from the bucks. Because of this work, I was also awarded with Verisk Way to Go award which I am most proud of till date. 
+
+
+Outline the role of an engineering manager in shaping a high functioning team.
+
+The great roles of an engineering manager for high functioning team are: motivation, direction, mentorship and realistic goals planner for the team. They should be able to understand what blockers might arise in future, and if sudden blockers arise, they should have fall over plan to handle it with calm. I really enjoy the good collaboration of the engineering manager to guide the team. 
+
+
+Experience 
+
+Describe your level of experience in Python, and how you have attained it.
+
+My professional experience with Python is more than 4 years since I have worked on ETL pipelines and microservices as a data engineer and on AI-powered applications as a graduate research assistant. I have created scalable Python multi-processing data pipelines, automated workflow on AWS, as well as end-to-end AI pipelines based on LangChain, Amazon Bedrock, and large language models. Other things I did are unit testing (SonarQube coverage 92%), secure coding and API development via rest.
+
+
+When did you start working on Linux? Describe your level of experience as a user & developer on Linux.
+
+I started working on Linux in the year 2021 and I have been using it in developing and production deployment. I am familiar with system administration, shell scripting, user and permissions management, networking and managing storage. I also gained experience in the development of software on Linux, along with containerized applications with Docker, LXC/LXD and virtual machines with QEMU/KVM.
+
+
+How do you address software performance, systematically, in your products and in your software engineering practices?
+
+I deal with software performance in a systematic way through profiling codes, optimizing bottlenecks and where applicable doing multi-threaded or asynchronous implementations. As a data engineer in pipeline projects, I have increased the throughput of ETL by 45 percent with multiprocessing and by using less memory. CI/CD workflows also include performance benchmarks, automated testing, and monitoring which I implement to make sure performance is not impacted as the load increases.
+
+
+How do you prefer to drive documentation for your products?
+
+I would like to have a clear, versioned documentation being part of the development cycle. This consists of the automatic generation of docstring of Python code, API specifications, architecture design and README files of internal tools. I also capitalize on such tools as Streamlit and markdown-based guides in collaborating with a team.
+
+
+Describe your experience with QEMU/KVM, LXC/LXD and cloud computing
+
+My practical work with QEMU/KVM to deploy a virtual machine, LXC/LXD to manage containers, and AWS cloud services such as EC2, S3, Lambda, Batch, and RDS experience. I have deployed containerized and cloud-based AI pipeline, both in the development and production environments.
+
+
+How would you describe your experience in Linux system fundamentals such as networking, storage, and security?
+
+I possess good knowledge on Linux networking, storage, and security basics, such as firewall settings, SSH access, filesystem and disk quotas, user/group permissions, and SELinux/AppArmor policies. CloudWatch and Linux-native metrics are also used to monitor system metrics.
+
+
+How do you think about software quality?
+
+I consider the quality of software to be the sum of the correctness, performance, security, and maintainability. I focus on automated testing, code inspection, linting, and static analysis. In the case of AI projects, I include accuracy, reliability and reproducibility metrics.
+
+
+Describe a case where it was very difficult to test code you were writing, but you found a reliable way to do it.
+
+In a project, it was not easy to test the integrations of multi-providers LLM because of fluctuating output of the models. I established an immediate standardization system and automatic checking of the output through the use of regex and token validation with reliable and tested results.
+
+
+What would you like to achieve in career development and skills development?
+
+I would like to enhance knowledge about Linux systems, cloud architecture, and infrastructure that is AI/ML-driven. My other promise is to make contributions to open-source projects and a leading contributor in cloud and AI ecosystems.
+
+
+Context
+
+How are you involved in open source software?
+
+While I have not yet been an active contributor to open-source projects, I am highly motivated to start contributing. I am currently preparing a proposal to contribute to open-source through Google Summer of Code (GSoC), which reflects my commitment to engaging with open-source communities, following best practices, and delivering meaningful contributions.
+
+
+Describe any significant contributions to open source (with links where possible)
+
+Although I do not have published contributions yet, my experience in Python, cloud computing, AI/ML, and Linux-based software development positions me well to make impactful contributions. I am particularly interested in projects that intersect cloud-native infrastructure, automation, and AI-powered tooling.
+
+
+What do you think are the key ingredients of a successful open source project?
+
+From my research and study, I believe successful open-source projects rely on:
+
+Clear and comprehensive documentation for developers and users.
+Modular, maintainable, and well-tested code.
+A welcoming, responsive community that encourages collaboration.
+Transparent contribution guidelines and mentorship for new contributors.
+
+
+Why do you most want to work for Canonical?
+
+Canonical represents the forefront of open-source Linux and cloud-native technologies. I am excited to contribute to projects like Ubuntu, LXD, and cloud infrastructure tools, and I see Canonical as the ideal environment to grow as a contributor while applying my Python, Linux, and cloud expertise.
+
+
+Which other companies are building the sort of products you would like to work on?
+
+Companies like Red Hat, SUSE, and AWS are building products in Linux distributions, containerization, cloud-native platforms, and orchestration tools, which closely align with my interests. I am particularly interested in organizations that integrate cloud-native infrastructure, virtualization, and AI/ML workflows to deliver scalable and open-source solutions.
+
+
+What do you think Canonical needs to improve in its engineering and products?
+
+Canonical has strong Linux and cloud offerings, but I see opportunities to improve in streamlining developer onboarding and tooling for emerging AI/ML workloads, making LXD/KVM, Ubuntu Server, and cloud orchestration more intuitive for developers integrating AI pipelines. Enhanced documentation, tutorials, and automated deployment templates could help users adopt these tools faster.
+
+
+What do you think is the biggest opportunity for Canonical in this arena?
+
+Canonical’s biggest opportunity lies in bridging open-source Linux, cloud infrastructure, and AI/ML workflows, enabling developers and enterprises to deploy AI/ML pipelines seamlessly on Ubuntu-based cloud or edge environments. Expanding integrations for AI frameworks and container orchestration can make Canonical a leader in AI-enabled, cloud-native open-source infrastructure.
+
+
+Who do you think are key competitors to Canonical? How do you think Canonical should plan to win that race?
+
+Key competitors include Red Hat, SUSE, and AWS Linux distributions, all of which target enterprise Linux and cloud infrastructure. Canonical can win by focusing on:
+
+Seamless AI/ML integration – making Ubuntu and LXD/KVM first-class platforms for AI deployment.
+Developer experience – improving tooling, documentation, and CI/CD pipelines for cloud-native and containerized applications.
+Community engagement – maintaining a strong open-source community, mentoring contributors, and rapidly incorporating feedback.

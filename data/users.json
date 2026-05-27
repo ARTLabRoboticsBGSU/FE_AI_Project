@@ -1,0 +1,27 @@
+{
+  "dips": {
+    "salt": "a56a8c0a0a976712e7537f8abbf1a33b",
+    "pwd_hash": "d7dace1e7da571e265947eeadc2b525720c663a02c815fde15f9ff57ed154057",
+    "display_name": "d",
+    "created_at": 1771005617,
+    "reset_code": "817801",
+    "reset_expires": 1771453546,
+    "email": "dbogati@bgsu.edu"
+  },
+  "db": {
+    "salt": "de2df6e082fbcc7f40b7dfa6b68d62c9",
+    "pwd_hash": "6159a043877817710b2a9aa4554d7db5b65fb5e7374ebaf5791abfb79b46a113",
+    "display_name": "Dipika",
+    "email": "bogatidipika38@gmail.com",
+    "isadmin": true,
+    "created_at": 1774543208
+  },
+  "bogati1": {
+    "salt": "2743d080e9daf02cf6e88b547066fd0d",
+    "pwd_hash": "c5d3e0102429fb9d2fff14a6ff72c2c474cc5d049a79f0093bc90cb987b299e8",
+    "display_name": "bogati1",
+    "email": "bogati@bgsu.edu",
+    "isadmin": false,
+    "created_at": 1774546593
+  }
+}

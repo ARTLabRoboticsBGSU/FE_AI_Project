@@ -1,0 +1,22 @@
+{
+  "domain_counts": {
+    "UNKNOWN": 15
+  },
+  "label_counts": {
+    "Circuit Analysis": 1,
+    "Electrical Fundamentals": 1,
+    "Digital Electronics": 1,
+    "Electromagnetism & AC Systems": 1,
+    "Robotics Fundamentals": 1,
+    "Logic & Relay-Based Control": 1,
+    "Actuators": 1,
+    "Other": 1,
+    "Passive Components": 1,
+    "Sensors": 1,
+    "Electrical/electronics Fundamentals": 1,
+    "Computer Engineering Basics": 1,
+    "Electronics Communication Basics": 1,
+    "Control & Automation Systems": 1,
+    "Introduction to Systems Engineering": 1
+  }
+}

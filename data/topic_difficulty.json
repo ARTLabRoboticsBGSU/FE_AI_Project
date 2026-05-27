@@ -1,0 +1,137 @@
+[
+  {
+    "topic": "Circuit Analysis",
+    "domain": "unknown",
+    "count": 14,
+    "avg_seconds": 123.02502580000001,
+    "median_seconds": 47.835113,
+    "raw_score": 333.1579458582946,
+    "difficulty_norm": 1.0
+  },
+  {
+    "topic": "Electrical Fundamentals",
+    "domain": "unknown",
+    "count": 19,
+    "avg_seconds": 43.20765,
+    "median_seconds": 23.744833999999997,
+    "raw_score": 129.4385515694251,
+    "difficulty_norm": 0.3885200793754458
+  },
+  {
+    "topic": "Digital Electronics",
+    "domain": "unknown",
+    "count": 6,
+    "avg_seconds": 64.512276,
+    "median_seconds": 64.512276,
+    "raw_score": 125.5350926070575,
+    "difficulty_norm": 0.3768035376843529
+  },
+  {
+    "topic": "Electromagnetism & AC Systems",
+    "domain": "unknown",
+    "count": 4,
+    "avg_seconds": 0.0,
+    "median_seconds": 0.0,
+    "raw_score": 0.0,
+    "difficulty_norm": 0.0
+  },
+  {
+    "topic": "Robotics Fundamentals",
+    "domain": "unknown",
+    "count": 3,
+    "avg_seconds": 72.471662,
+    "median_seconds": 72.471662,
+    "raw_score": 100.46705637158665,
+    "difficulty_norm": 0.30155983857074
+  },
+  {
+    "topic": "Logic & Relay-Based Control",
+    "domain": "unknown",
+    "count": 2,
+    "avg_seconds": 0.0,
+    "median_seconds": 0.0,
+    "raw_score": 0.0,
+    "difficulty_norm": 0.0
+  },
+  {
+    "topic": "Actuators",
+    "domain": "unknown",
+    "count": 3,
+    "avg_seconds": 14.97503,
+    "median_seconds": 14.97503,
+    "raw_score": 20.759799646601195,
+    "difficulty_norm": 0.0623121852703197
+  },
+  {
+    "topic": "Other",
+    "domain": "unknown",
+    "count": 88,
+    "avg_seconds": 3.0313773636363637,
+    "median_seconds": 1.09337,
+    "raw_score": 13.606750684800911,
+    "difficulty_norm": 0.04084174144412694
+  },
+  {
+    "topic": "Passive Components",
+    "domain": "unknown",
+    "count": 5,
+    "avg_seconds": 73.6522185,
+    "median_seconds": 73.6522185,
+    "raw_score": 131.96705992702874,
+    "difficulty_norm": 0.3961095977676594
+  },
+  {
+    "topic": "Sensors",
+    "domain": "unknown",
+    "count": 10,
+    "avg_seconds": 21.392656,
+    "median_seconds": 17.131345,
+    "raw_score": 51.297348695001695,
+    "difficulty_norm": 0.15397306092414348
+  },
+  {
+    "topic": "Electrical/electronics Fundamentals",
+    "domain": "unknown",
+    "count": 4,
+    "avg_seconds": 41.9728365,
+    "median_seconds": 41.9728365,
+    "raw_score": 67.55267435549781,
+    "difficulty_norm": 0.2027647102381603
+  },
+  {
+    "topic": "Computer Engineering Basics",
+    "domain": "unknown",
+    "count": 3,
+    "avg_seconds": 0.0,
+    "median_seconds": 0.0,
+    "raw_score": 0.0,
+    "difficulty_norm": 0.0
+  },
+  {
+    "topic": "Electronics Communication Basics",
+    "domain": "unknown",
+    "count": 2,
+    "avg_seconds": 0.0,
+    "median_seconds": 0.0,
+    "raw_score": 0.0,
+    "difficulty_norm": 0.0
+  },
+  {
+    "topic": "Control & Automation Systems",
+    "domain": "unknown",
+    "count": 2,
+    "avg_seconds": 0.0,
+    "median_seconds": 0.0,
+    "raw_score": 0.0,
+    "difficulty_norm": 0.0
+  },
+  {
+    "topic": "Introduction to Systems Engineering",
+    "domain": "unknown",
+    "count": 3,
+    "avg_seconds": 81.127341,
+    "median_seconds": 81.127341,
+    "raw_score": 112.46637536095051,
+    "difficulty_norm": 0.33757674628233825
+  }
+]
