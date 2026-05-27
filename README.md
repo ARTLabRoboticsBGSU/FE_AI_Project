@@ -4,10 +4,11 @@ This repository contains the FE-AI (Faculty/Engineering AI) project tailored for
 
 ## Purpose
 
-FE-AI provides an instructor-facing analytics dashboard and student-facing AI assistant tailored for two undergraduate courses:
+FE-AI provides an instructor-facing analytics dashboard and student-facing AI assistant tailored for three undergraduate courses:
 
 - ECE (Electrical & Computer Engineering topics as taught in the course context)
 - ROBO (Robotics and automation course topics)
+- SYE (Systems Engineering and Engineering Management course topics)
 
 The system is designed for classroom use: it helps instructors monitor misconceptions, difficulty across topics, and Bloom-level distributions while providing students with guided AI interactions and study aids.
 
@@ -39,7 +40,7 @@ streamlit run chatgpt.py
 
 ## Course Configuration
 
-- Default course selection is persisted in session state; switch between `ECE` and `ROBO` using the course radio control on the Instructor Dashboard.
+- Default course selection is persisted in session state; switch between `ECE`, `ROBO`, and `SYE` using the course radio control on the Instructor Dashboard.
 - Topic and subtopic lists are defined in `lib/home_views.py` — update those mappings if your syllabus differs from the defaults.
 
 ## Data & Privacy
