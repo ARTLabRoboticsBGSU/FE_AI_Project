@@ -1,6 +1,6 @@
-# FE-AI — Farmer School of Business Educational AI
+# FE-AI — Falcon Engineering AI
 
-This repository contains the FE-AI (Faculty/Engineering AI) project tailored for Bowling Green State University's Farmer School of Business. The README below focuses the project documentation on the FE-AI instructional deployment used in the ECE and ROBO courses at BGSU.
+This repository contains the FE-AI (Falcon Engineering AI) project tailored for Bowling Green State University's School of Engineering. The README below focuses the project documentation on the FE-AI instructional deployment used in the ECE and ROBO courses at BGSU.
 
 ## Purpose
 
